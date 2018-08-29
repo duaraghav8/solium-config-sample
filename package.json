@@ -1,0 +1,20 @@
+{
+  "name": "solium-config-sample",
+  "version": "0.0.0",
+  "description": "Sample sharable config for Solium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solium",
+    "soliumconfig",
+    "ethereum",
+    "solidity"
+  ],
+  "author": "Raghav Dua <duaraghav8@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "solium": "^1.0.0"
+  }
+}
